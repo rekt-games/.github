@@ -1,3 +1,3 @@
 <!-- Banner Image -->
 
-![Rektstudios Header](header-image.jpg)
+![Rektstudios Header](header-image.png)
