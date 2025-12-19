@@ -1,3 +1,3 @@
 <!-- Banner Image -->
 
-![Rektstudios Header](header-image.png)
+![RektGames Header](header-image.png)
